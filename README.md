@@ -1,2 +1,1 @@
-# bounceOffAlgorithm
-Algorithm to bounce off two objects
+https://nihalcilamkoti.github.io/function-bounceOff/
